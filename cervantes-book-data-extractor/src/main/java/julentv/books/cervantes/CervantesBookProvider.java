@@ -2,7 +2,7 @@ package julentv.books.cervantes;
 
 import julentv.books.Book;
 import julentv.books.BookMetadata;
-import julentv.books.BookProvider;
+import julentv.books.provider.BookProvider;
 import julentv.books.highlight.Highlight;
 import julentv.books.highlight.extraction.cervantes.CervantesXmlHighlightExtractor;
 
