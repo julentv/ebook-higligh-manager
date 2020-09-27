@@ -54,5 +54,7 @@
     <modules>
         <module>core</module>
         <module>cervantes-book-data-extractor</module>
+        <module>google-book-data-adapter</module>
+        <module>jar-builder</module>
     </modules>
 </project>
